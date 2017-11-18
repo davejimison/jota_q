@@ -4,7 +4,8 @@
   "description": "Expidia Code Retrea Project",
   "main": "/index",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha ./tests/test.js",
+    "code": "node ./code/app.js"
   },
   "repository": {
     "type": "git",
