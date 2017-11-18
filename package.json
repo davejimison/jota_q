@@ -4,7 +4,7 @@
   "description": "Expidia Code Retrea Project",
   "main": "/index",
   "scripts": {
-    "test": "mocha ./tests/test.js",
+    "test": "mocha ./tests/cell.js",
     "code": "node ./code/app.js"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "mocha": "",
-    "chai": ""
+    "chai": "",
+    "http": ""
   }
 }
