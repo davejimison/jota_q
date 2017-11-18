@@ -1,0 +1,23 @@
+{
+  "name": "expidia_code_retreat",
+  "version": "1.0.0",
+  "description": "Expidia Code Retrea Project",
+  "main": "/index",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davejimison/jota_q"
+  },
+  "keywords": [
+    "code",
+    "treateat"
+  ],
+  "author": "The Jimisons",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mocha": "",
+    "chai": ""
+  }
+}
